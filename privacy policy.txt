@@ -1,0 +1,79 @@
+# Privacy Policy for Relate Me
+
+**Effective date: October 25, 2026**
+
+Relate Me (the “App”) helps people build and explore a family tree. This Privacy Policy explains what information the App handles, how it is used, and the choices available to you.
+
+## Who is responsible for your information
+
+Relate Me is provided by **[ANAND MOHAN G / NAACHYSS]** (“we,” “us,” or “our”). For privacy questions or requests, contact **[innvoice.naachyss@gmail.com]**.
+
+## Information we handle
+
+Depending on how you use the App, we may handle:
+
+- **Account and sign-in information:** Email address and password when you register or sign in with email; phone number when you use phone verification; and information made available by Google when you choose Google Sign-In. Authentication is provided through Firebase Authentication. We do not receive or store your Google password.
+- **Profile information:** Name, gender, date of birth, biography, profile photo, phone number, email address, location, and profession, when you choose to provide them.
+- **Family information:** Names, gender, dates of birth, photos, family relationships, and related profile details that you or your family members add to a family tree. This can include information about relatives who do not have an App account.
+- **Invitations and connections:** Invitation links or tokens, connection requests, and whether an invitation or request is pending, accepted, declined, or expired.
+- **App preferences and activity:** Theme and privacy preferences, family-tree information used to calculate relationships and upcoming birthdays, and badge progress and achievements.
+- **Technical and diagnostic information:** Information processed by Firebase and Google services to provide authentication, database, photo storage, and app security. Those services may process device, app, network, and service event information under their own terms and documentation.
+
+Please only add information about another person when you have an appropriate reason and permission to do so.
+
+## How we use information
+
+We use information to:
+
+- Create and secure accounts and authenticate sign-ins.
+- Create profiles, family trees, and family connections.
+- Calculate and display family relationships and upcoming birthdays.
+- Let users invite relatives and respond to connection requests.
+- Provide profile photos, preferences, and badge features.
+- Protect the App and its backend services, troubleshoot issues, and maintain the service.
+- Respond to support, privacy, and legal requests.
+
+## How information is shared
+
+Relate Me is designed for family connections. Information you add to a family tree may be visible to people connected to that family. Profile privacy controls let you choose visibility for supported profile fields, including your phone number, email address, date of birth, location, and profession. Information needed to operate a family tree, such as family member names and relationships, may be visible to members of that family.
+
+When you choose to share an invitation or badge, the App opens your device’s sharing options. The content is sent to the service or person you choose, under their terms and privacy practices.
+
+We use service providers, including Google Firebase, to operate authentication, cloud database, file storage, and app security features. These providers process information on our behalf to provide their services. We may also disclose information when required by law, to protect users or the service, or as part of a business transfer, subject to applicable law.
+
+We do not sell your personal information. **[Confirm before publishing that the App and its Firebase configuration do not use advertising, analytics, or other data-sharing services beyond those described here.]**
+
+## Storage and security
+
+Account, profile, family-tree, and photo data are stored using Google Firebase services configured for the App. We use Firebase App Check to help protect backend resources. We take reasonable steps to protect information, but no online service can guarantee absolute security. Access to family information also depends on the people you invite and the privacy settings available in the App.
+
+## Retention and deletion
+
+We keep information for as long as needed to provide the App, maintain family trees, meet legal obligations, resolve disputes, and enforce our agreements. Some family-tree information may remain available to other family members after a person stops using the App because it describes shared family relationships.
+
+To request deletion of your account and associated personal information, contact **[innvoice.naachyss@gmail.com]** from the email address associated with your account and include “Relate Me account deletion” in the subject. We will verify the request and explain what can be deleted. Information we must retain for legal, security, or legitimate operational reasons may be kept for the required period.
+
+**[Specify the expected processing time and whether any information remains in family trees after account deletion.]**
+
+## Children’s privacy
+
+The App is not directed to children under 13, and we do not knowingly collect personal information directly from children under 13 to create accounts. If you believe a child has provided us with personal information, contact **[innvoice.naachyss@gmail.com]** so we can review and take appropriate action. If local law sets a higher age or requires parental consent, we follow the applicable requirement.
+
+## Your choices
+
+You can review or update profile information and supported privacy settings in the App. You can stop sharing information by removing it where the App allows, stop using the App, or request account deletion using the contact details above. You can also manage Google account permissions through your Google account settings.
+
+## International processing
+
+Our service providers may process or store information in countries other than the country where you live. Where required, we rely on appropriate safeguards for international transfers.
+
+## Changes to this policy
+
+We may update this policy as the App changes or as required by law. We will update the effective date at the top of this page. If a change materially affects how information is handled, we will provide notice through the App or another appropriate channel where required.
+
+## Contact
+
+For privacy questions or requests, contact:
+
+**[ANAND MOHAN G / NAACHYSS]**  
+Email: **[innvoice.naachyss@gmail.com]**  
