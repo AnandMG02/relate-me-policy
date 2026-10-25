@@ -34,7 +34,7 @@ For child safety reports or questions about these standards, contact:
 **Relate Me Child Safety Contact**  
 Email: [innvoice.naachyss@gmail.com](mailto:innvoice.naachyss@gmail.com)
 
-This contact is monitored for reports and matters relating to these standards.
+Use this address for reports and questions about enforcement of these standards.
 
 ## Updates
 
